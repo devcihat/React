@@ -1,0 +1,51 @@
+.main {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 170px;
+}
+
+.paragraf {
+  display: block;
+  justify-content: center;
+  color: gray;
+}
+
+.btnButton {
+  margin: 2px;
+}
+
+.btnOne {
+  margin: 0px;
+  border: none;
+  margin-top: 18px;
+}
+
+.cardNameOne {
+  position: absolute;
+  height: auto;
+  float: left;
+  margin-top: 44px;
+  text-align: center;
+  height: auto;
+  box-sizing: border-box;
+}
+
+.footerP {
+  margin-bottom: 0.25rem;
+  display: block;
+  color: gray;
+  text-align: left;
+  margin-top: 20px;
+
+  margin-top: 40px;
+  text-align: center;
+}
+
+.back {
+  text-align: end;
+  margin-bottom: 25px;
+}
+
+.cardDeck {
+  padding-top: 90px;
+}
